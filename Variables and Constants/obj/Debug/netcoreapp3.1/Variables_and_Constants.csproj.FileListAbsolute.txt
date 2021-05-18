@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\obj\Debug\netcoreapp3.1\Variables_and_Constants.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\obj\Debug\netcoreapp3.1\Variables_and_Constants.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\obj\Debug\netcoreapp3.1\Variables_and_Constants.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\obj\Debug\netcoreapp3.1\Variables_and_Constants.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\bin\Debug\netcoreapp3.1\Variables_and_Constants.exe
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\bin\Debug\netcoreapp3.1\Variables_and_Constants.deps.json
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\bin\Debug\netcoreapp3.1\Variables_and_Constants.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\bin\Debug\netcoreapp3.1\Variables_and_Constants.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\bin\Debug\netcoreapp3.1\Variables_and_Constants.dll
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\bin\Debug\netcoreapp3.1\Variables_and_Constants.pdb
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\obj\Debug\netcoreapp3.1\Variables_and_Constants.dll
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\obj\Debug\netcoreapp3.1\Variables_and_Constants.pdb
+C:\Users\Rohit Dasari\source\repos\Variables_and_Constants\obj\Debug\netcoreapp3.1\Variables_and_Constants.genruntimeconfig.cache

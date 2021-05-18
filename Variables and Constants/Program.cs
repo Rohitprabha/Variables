@@ -8,7 +8,6 @@ namespace Variables_and_Constants
         {
             int a = 0;
             Console.WriteLine("Local variable {0}", a);
-
         }
         int x;                      //non-static variable
         static int y = 200;           //static variable
